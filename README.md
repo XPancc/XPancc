@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=XPancc&show_icons=true&count_private=true&icon_color=FB7299&title_color=FB7299)
+[![stats](https://github-readme-stats.vercel.app/api?username=XPancc)](https://github.com/anuraghazra/github-readme-stats)
+
