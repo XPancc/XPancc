@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=XPancc&show_icons=true&count_private=true&icon_color=fffafa&title_color=fffafa&bg_color=15,c03f3c,eb652d,e9db39,008e59,276893,1b54f2,4e1892&hide_border=true">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XPancc&layout=compact&hide_border=true">
-<!-- If you're using the "columns" display mode -->
-<img src="https://github.com/XPancc/XPancc/blob/master/github-metrics.svg" alt="Metrics" width="100%">
+<img align="left" width="390" alt="🦑" src="https://github.com/XPancc/XPancc/blob/main/metrics.svg">
+<img align="left" width="390" alt="🦑" src="https://github.com/XPancc/XPancc/blob/main/metrics.personal.achievements.svg">
+
