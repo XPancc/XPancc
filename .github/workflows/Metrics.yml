@@ -46,13 +46,3 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           output_action: pull-request
-
-      - name: 🦑 Personal metrics (bottom 2)
-        if: ${{ success() || failure() }}
-        uses: XPancc/metrics@latest
-        with:
-          filename: metrics.personal.sponsors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_sponsors: yes
-          output_action: pull-request-squash
