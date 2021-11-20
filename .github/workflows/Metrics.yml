@@ -45,4 +45,4 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          output_action: pull-request
+          output_action: pull-request-squash
