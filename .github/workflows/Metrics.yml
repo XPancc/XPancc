@@ -14,7 +14,7 @@ jobs:
 
       - name: 🦑 Personal metrics (left)
         if: ${{ success() || failure() }}
-        uses: XPancc/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -38,7 +38,7 @@ jobs:
       
       - name: 🦑 Personal metrics (bottom 1)
         if: ${{ success() || failure() }}
-        uses: XPancc/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: metrics.personal.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
