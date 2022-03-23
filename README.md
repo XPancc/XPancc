@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XPancc&layout=compact&hide_border=true">
 -->
 <img align="left" width="390" alt="🦑" src="https://github.com/XPancc/XPancc/blob/main/metrics.svg">
-<img align="left" width="390" alt="🦑" src="https://github.com/XPancc/XPancc/blob/main/achievements.svg">
+<img align="left" width="390" alt="🦑" src="https://github.com/XPancc/XPancc/blob/main/metrics.personal.achievements.svg">
 
